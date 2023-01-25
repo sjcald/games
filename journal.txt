@@ -1,4 +1,4 @@
 GAME JOURNAL
 
 -1/25/23-
-    I am trying to think of a simple game to make this week but I don't really know any Processing so I don't know what I can do yet. Maybe some kind of solo pong game or something that is easy enough to animate. My only animation experience is Python Turtle so I need to figure out where to start.
+    I am trying to think of a simple game to make this week but I don't really know any Processing so I don't know what I can do yet. Maybe some kind of solo pong game or something that is easy enough to animate. My only animation experience is Python Turtle so I need to figure out where to start. I think some kind of game where blocks or circles appear and you need to click them all away faster than they appear could be fun. The timing aspect may be difficult.
